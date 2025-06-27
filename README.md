@@ -1,16 +1,15 @@
-# todoapp
+# 📝 Flutter To‑Do App
 
-A new Flutter project.
+A simple and intuitive to‑do app built with Flutter. It supports adding, deleting, updating, and searching tasks, with a clean UI and smooth user experience.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- **Add** new tasks using a stylish input field and button.
+- **Delete** tasks with automatic UI updates.
+- **Edit** task titles inline.
+- **Search** through tasks with a dedicated search bar.
+- **Responsive UI** with rounded corners, custom colors, and layout tweaks.
+- **Flutter Web & Mobile** compatible.
 
-A few resources to get you started if this is your first Flutter project:
+## 📦 Project Structure
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
